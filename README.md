@@ -19,4 +19,4 @@ b)	How many such customers were there in each state
 7.	Join customer, orderdetails, orders, products table and find the total quantity ordered for each productLine?
 8.	Join all the tables to create the analytical dataset?
 
-
+Please refer to 'Queries' file to find the code.Thank you!
